@@ -19,6 +19,7 @@ public class tabelasdeprodutos {
 		System.out.println("\n5- Refrigerante R$8.00.");
 		System.out.println("\n6- Suco de laranja R$ 13.00.");
 		System.out.println("\n==================================");
+		System.out.println("\nDigite o código do produto:  ");
 		codigo = ler.nextInt();
 		System.out.println("\nColoque a quantidade de produtos: ");
 		quantidade = ler.nextInt();
